@@ -1,0 +1,13 @@
+body{
+	background:#FFF8F6;
+}
+
+.nav-wrapper,.page-footer{
+	background:#FF693E;
+}
+
+.test{
+	height:700px ;
+	width:1920px ;
+	background: silver;
+}
